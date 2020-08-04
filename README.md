@@ -1,6 +1,6 @@
 # ✨ Researcher and Developer ✨
 
-I'm currently a Compuer Science Ph.D candidate at the University of Campinas in Brazil. 
+I'm Compuer Science Ph.D candidate at the University of Campinas in Brazil. 
 
 🤔 Right now my main interest is to work with deep learn code generation and compiler optimizations.
 
