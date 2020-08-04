@@ -1,4 +1,4 @@
-# ✨ Research and Developer ✨
+# ✨ Researcher and Developer ✨
 
 I'm currently a Compuer Science Ph.D candidate at the University of Campinas in Brazil. 
 
