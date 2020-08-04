@@ -4,7 +4,7 @@ I'm currently a Compuer Science Ph.D candidate at the University of Campinas in 
 
 🤔 Right now my main interest is to work with deep learn code generation and compiler optimizations.
 
-#### Vanderson M. do Rosario - Learn more about me at https://vandersonmr.github.io/
+#### Learn more about me at https://vandersonmr.github.io/
 <!--
 **vandersonmr/vandersonmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
