@@ -4,8 +4,7 @@ I'm a Compuer Science Ph.D candidate at the University of Campinas in Brazil.
 
 🤔 Right now my main interest is to work with deep learn code generation and compiler optimizations.
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=vandersonmr&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonmr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonmr&layout=compact)](https://github.com/vandersonmr/github-readme-stats)
 
 #### Learn more about me at https://vandersonmr.github.io/
 <!--
