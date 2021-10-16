@@ -1,12 +1,13 @@
 # ✨ Researcher and Developer ✨
 
-I'm a Compuer Science Ph.D candidate at the University of Campinas in Brazil. 
+I`m a Ph.D. in Computer Science and my main interests are compilers, JITs and tensor/deep learn compilers. 
 
-🤔 Right now my main interest is to work with deep learn code generation and compiler optimizations.
+I currently work as a AI Compiler Engineer at Cadence Design Systems.
+
+#### Learn more about me at https://vandersonmr.github.io/
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vandersonmr&layout=compact)](https://github.com/vandersonmr/github-readme-stats)
 
-#### Learn more about me at https://vandersonmr.github.io/
 <!--
 **vandersonmr/vandersonmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
